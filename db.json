@@ -2,7 +2,8 @@
   "posts": {
     "data":[
      { "id": 1, "body": "some comment", "title": "asdsad" },
-     { "id": 2, "body": "some comment 2", "title": "asdsad" },
+     { "id": 2, "body": "some comment 2", "title": "sad sad sadasdsad" },
+       { "id": 3, "body": "some comment 3", "title": "vsdsadasdd" },
     ],
   },
   "comments": [
